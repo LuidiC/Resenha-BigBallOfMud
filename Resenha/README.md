@@ -18,12 +18,12 @@ Referências e Fundamentação: O artigo utiliza uma base teórica sólida, refe
 
 **. Discussão:** O conceito de Big Ball of Mud pode ser comparado a outras abordagens de desenvolvimento ágil, como a estratégia de Worse is Better de Richard Gabriel, que defende soluções práticas que funcionam, mesmo que imperfeitas. Além disso, o artigo se alinha com debates sobre a dívida técnica e a evolução inevitável dos sistemas. Quando comparado a teorias arquitetônicas tradicionais, como o design em camadas ou pipelines, Big Ball of Mud oferece uma visão pragmática da realidade dos desenvolvedores que lidam com prazos curtos e recursos limitados.
 
-**. Opinião pessoal**
+**. Opinião pessoal:**
 O artigo apresenta uma perspectiva prática e realista sobre o desenvolvimento de software. Um dos pontos fortes é o reconhecimento de que muitos sistemas acabam se tornando uma “bola de lama” devido a pressões externas, como tempo e custo. As soluções propostas pelos autores, como a refatoração e a reconstrução, são válidas. No entanto, o artigo poderia ser enriquecido com mais exemplos práticos ou estudos de caso que demonstrem essas soluções em ação. Além disso, uma análise quantitativa sobre o impacto da dívida técnica em projetos seria uma adição valiosa ao argumento.
 
-**. Conclusão**
+**. Conclusão:**
 Big Ball of Mud é uma contribuição importante para o debate sobre arquitetura de software, destacando a necessidade de compreender e mitigar os impactos das práticas arquitetônicas inadequadas. Os autores não condenam a existência dessas arquiteturas, mas propõem uma reflexão crítica sobre como elas surgem e como podem ser gerenciadas ou melhoradas. Para profissionais envolvidos no desenvolvimento de sistemas de software, o artigo oferece insights valiosos sobre as forças que influenciam as escolhas arquitetônicas no mundo real.
 
-**. Citações e referências**
+**. Citações e referências:**
 Foote, B., & Yoder, J. (1997). *Big Ball of Mud*.
 
