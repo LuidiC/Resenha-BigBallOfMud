@@ -24,6 +24,4 @@ O artigo apresenta uma perspectiva prática e realista sobre o desenvolvimento d
 **Conclusão:**
 Big Ball of Mud é uma contribuição importante para o debate sobre arquitetura de software, destacando a necessidade de compreender e mitigar os impactos das práticas arquitetônicas inadequadas. Os autores não condenam a existência dessas arquiteturas, mas propõem uma reflexão crítica sobre como elas surgem e como podem ser gerenciadas ou melhoradas. Para profissionais envolvidos no desenvolvimento de sistemas de software, o artigo oferece visões sobre as forças que influenciam as escolhas de arquitetura no mundo real.
 
-**Citações e referências:**
-Foote, B., & Yoder, J. (1997). *Big Ball of Mud*.
 
