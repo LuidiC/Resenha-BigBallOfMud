@@ -8,9 +8,7 @@
 
 Relevância: O tema é extremamente relevante, pois a prevalência de sistemas mal estruturados é um problema recorrente na engenharia de software. O artigo desafia a ideia de que arquiteturas sofisticadas são sempre o padrão ideal, reconhecendo a realidade prática enfrentada por desenvolvedores sob pressão de tempo e recursos.
 
-Clareza: Os autores são claros na exposição das ideias, utilizando metáforas eficazes, como a analogia com favelas e código desorganizado, para explicar a desordem nas arquiteturas de software.
-
-Coerência e Coesão: O artigo mantém uma boa coesão ao organizar os tópicos em torno dos padrões que compõem a arquitetura Big Ball of Mud. As transições entre os padrões são fluidas, facilitando o acompanhamento do raciocínio dos autores, assim, guiando os leitores.
+Clareza: Os autores são claros na exposição das ideias, utilizando metáforas eficazes, como a analogia com favelas e código desorganizado, para explicar a desordem nas arquiteturas de software, as transições entre os padrões são fluidas, facilitando o acompanhamento do raciocínio dos autores, assim, guiando os leitores.
 
 Metodologia: A abordagem dos autores é baseada em um estudo de bastante observação que destaca casos reais onde arquiteturas de software se deterioram mais e mais.
 
